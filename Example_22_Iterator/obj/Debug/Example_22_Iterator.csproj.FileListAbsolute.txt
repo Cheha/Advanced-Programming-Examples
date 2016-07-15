@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\bin\Debug\Example_22_Iterator.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\bin\Debug\Example_22_Iterator.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\bin\Debug\Example_22_Iterator.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\obj\Debug\Example_22_Iterator.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\obj\Debug\Example_22_Iterator.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_22_Iterator\obj\Debug\Example_22_Iterator.pdb

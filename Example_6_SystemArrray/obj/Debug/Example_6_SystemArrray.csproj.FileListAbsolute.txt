@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\bin\Debug\Example_6_SystemArrray.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\bin\Debug\Example_6_SystemArrray.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\bin\Debug\Example_6_SystemArrray.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\obj\Debug\Example_6_SystemArrray.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\obj\Debug\Example_6_SystemArrray.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_6_SystemArrray\obj\Debug\Example_6_SystemArrray.pdb

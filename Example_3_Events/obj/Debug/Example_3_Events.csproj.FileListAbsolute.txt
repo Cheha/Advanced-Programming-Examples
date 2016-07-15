@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\bin\Debug\Example_3_Events.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\bin\Debug\Example_3_Events.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\bin\Debug\Example_3_Events.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\obj\Debug\Example_3_Events.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\obj\Debug\Example_3_Events.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_3_Events\obj\Debug\Example_3_Events.pdb

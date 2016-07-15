@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\bin\Debug\Example_1_Delegate.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\bin\Debug\Example_1_Delegate.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\bin\Debug\Example_1_Delegate.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\obj\Debug\Example_1_Delegate.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\obj\Debug\Example_1_Delegate.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_1_Delegate\obj\Debug\Example_1_Delegate.csprojResolveAssemblyReference.cache

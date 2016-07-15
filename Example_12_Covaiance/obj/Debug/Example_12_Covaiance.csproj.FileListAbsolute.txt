@@ -1,0 +1,5 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_12_Covaiance\bin\Debug\Example_12_Covaiance.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_12_Covaiance\bin\Debug\Example_12_Covaiance.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_12_Covaiance\bin\Debug\Example_12_Covaiance.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_12_Covaiance\obj\Debug\Example_12_Covaiance.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_12_Covaiance\obj\Debug\Example_12_Covaiance.pdb

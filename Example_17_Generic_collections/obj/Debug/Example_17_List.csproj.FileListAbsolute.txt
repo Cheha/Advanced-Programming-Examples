@@ -1,0 +1,5 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_17_Generic_collections\bin\Debug\Example_17_Generic_collections.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_17_Generic_collections\bin\Debug\Example_17_Generic_collections.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_17_Generic_collections\bin\Debug\Example_17_Generic_collections.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_17_Generic_collections\obj\Debug\Example_17_Generic_collections.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_17_Generic_collections\obj\Debug\Example_17_Generic_collections.pdb

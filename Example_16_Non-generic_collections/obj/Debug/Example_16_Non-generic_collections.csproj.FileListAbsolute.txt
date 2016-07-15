@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\bin\Debug\Example_16_Non-generic_collections.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\bin\Debug\Example_16_Non-generic_collections.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\bin\Debug\Example_16_Non-generic_collections.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\obj\Debug\Example_16_Non-generic_collections.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\obj\Debug\Example_16_Non-generic_collections.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_16_Non-generic_collections\obj\Debug\Example_16_Non-generic_collections.pdb

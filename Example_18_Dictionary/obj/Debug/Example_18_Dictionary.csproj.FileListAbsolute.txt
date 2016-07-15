@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\obj\Debug\Example_18_Dictionary.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\bin\Debug\Example_18_Dictionary.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\bin\Debug\Example_18_Dictionary.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\bin\Debug\Example_18_Dictionary.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\obj\Debug\Example_18_Dictionary.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_18_Dictionary\obj\Debug\Example_18_Dictionary.pdb

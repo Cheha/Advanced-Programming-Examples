@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\bin\Debug\Example_4_Anonymous_method.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\bin\Debug\Example_4_Anonymous_method.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\bin\Debug\Example_4_Anonymous_method.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\obj\Debug\Example_4_Anonymous_method.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\obj\Debug\Example_4_Anonymous_method.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_4_Anonymous_method\obj\Debug\Example_4_Anonymous_method.pdb

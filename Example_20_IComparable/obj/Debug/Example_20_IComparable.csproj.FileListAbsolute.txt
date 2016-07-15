@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\bin\Debug\Example_20_IComparable.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\bin\Debug\Example_20_IComparable.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\bin\Debug\Example_20_IComparable.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\obj\Debug\Example_20_IComparable.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\obj\Debug\Example_20_IComparable.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_20_IComparable\obj\Debug\Example_20_IComparable.pdb

@@ -1,0 +1,5 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_21_IEnumerable\bin\Debug\Example_21_IEnumerable.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_21_IEnumerable\bin\Debug\Example_21_IEnumerable.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_21_IEnumerable\bin\Debug\Example_21_IEnumerable.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_21_IEnumerable\obj\Debug\Example_21_IEnumerable.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_21_IEnumerable\obj\Debug\Example_21_IEnumerable.pdb

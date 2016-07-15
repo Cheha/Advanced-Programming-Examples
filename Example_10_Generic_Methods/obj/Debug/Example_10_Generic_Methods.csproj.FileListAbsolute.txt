@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\bin\Debug\Example_10_Generic_Methods.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\bin\Debug\Example_10_Generic_Methods.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\bin\Debug\Example_10_Generic_Methods.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\obj\Debug\Example_10_Generic_Methods.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\obj\Debug\Example_10_Generic_Methods.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_10_Generic_Methods\obj\Debug\Example_10_Generic_Methods.pdb

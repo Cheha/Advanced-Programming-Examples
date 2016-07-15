@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\bin\Debug\Example_7_GenericClass.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\bin\Debug\Example_7_GenericClass.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\bin\Debug\Example_7_GenericClass.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\obj\Debug\Example_7_GenericClass.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\obj\Debug\Example_7_GenericClass.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_7_GenericClass\obj\Debug\Example_7_GenericClass.csprojResolveAssemblyReference.cache

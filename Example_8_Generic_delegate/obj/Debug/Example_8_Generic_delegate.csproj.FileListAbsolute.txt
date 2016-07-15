@@ -1,0 +1,5 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_8_Generic_delegate\bin\Debug\Example_8_Generic_delegate.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_8_Generic_delegate\bin\Debug\Example_8_Generic_delegate.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_8_Generic_delegate\bin\Debug\Example_8_Generic_delegate.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_8_Generic_delegate\obj\Debug\Example_8_Generic_delegate.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_8_Generic_delegate\obj\Debug\Example_8_Generic_delegate.pdb

@@ -1,0 +1,6 @@
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\bin\Debug\Example_5_Lambda_expressions.exe.config
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\bin\Debug\Example_5_Lambda_expressions.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\bin\Debug\Example_5_Lambda_expressions.pdb
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\obj\Debug\Example_5_Lambda_expressions.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\obj\Debug\Example_5_Lambda_expressions.exe
+D:\Brain Academy\Advanced_programming_Examples\Example_5_Lambda_expressions\obj\Debug\Example_5_Lambda_expressions.pdb
